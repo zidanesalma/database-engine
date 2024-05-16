@@ -4,7 +4,11 @@ This project is a simulation of a simple database engine that uses B+ trees for 
 
 # Features
   -Create Tables: Define new tables with specified schema.
+  
   -Create Indices: Create B+ tree indices on specified columns to enhance query performance.
+  
   -Insert Records: Add new records to the tables.
+  
   -Delete Records: Remove records from the tables based on specified conditions.
+  
   -Select Records: Retrieve records from the tables using various query conditions.
